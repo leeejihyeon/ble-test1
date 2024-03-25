@@ -12,7 +12,6 @@ import {
     View,
 } from 'react-native';
 import Kontakt, {KontaktModule} from 'react-native-kontaktio'; // 비콘 스캔 및 비콘 정보 추출 라이브러리
-import RNLocation from 'react-native-location'; // 휴대폰 기기 위치 추적 라이브러리
 
 
 interface Beacon { // Beacon 타입 정의
